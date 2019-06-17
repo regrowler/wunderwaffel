@@ -1,0 +1,9 @@
+﻿  wunderwaffel.cpp
+C:\c-projects\wunderwaffel\wunderwaffel\wunderwaffel\getopt.h(59,31): warning C4081:  требуется "newline"; обнаружен ";"
+C:\c-projects\wunderwaffel\wunderwaffel\wunderwaffel\wunderwaffel.cpp(149,21): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода
+  4 of 1412 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  wunderwaffel.vcxproj -> C:\c-projects\wunderwaffel\wunderwaffel\Release\wunderwaffel.exe
